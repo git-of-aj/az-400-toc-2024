@@ -6,3 +6,9 @@
 - [github Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects)
 - *[full left side ---> Cycle time](https://learn.microsoft.com/en-us/azure/devops/report/dashboards/charts?view=azure-devops)*
 - **[Github => transition done etc via commit message](https://learn.microsoft.com/en-us/azure/devops/boards/github/link-to-from-github?view=azure-devops#use-ab-to-link-from-github-to-azure-boards-work-items)**
+
+# Documnetation
+- [Mermaid](https://mermaid.js.org/intro/syntax-reference.html)
+- [Github Mermaid Syntax](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
+- [Use GH acction to automate release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
+- 
